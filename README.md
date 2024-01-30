@@ -1,2 +1,2 @@
 # React
- Estudos em React.
+ Estudos em React
