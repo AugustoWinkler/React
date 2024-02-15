@@ -9,5 +9,5 @@ The main goal is to enhance my skills in React by archiving personal projects, c
 ## Content
 - React Courses
 - Mini React Projects
-- React Prototypes
+- React Prototypes.
 
